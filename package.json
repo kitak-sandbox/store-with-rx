@@ -1,0 +1,14 @@
+{
+  "name": "store-with-rx",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node fuse.js"
+  },
+  "dependencies": {
+    "rx-lite": "^4.0.8"
+  },
+  "devDependencies": {
+    "fuse-box": "^2.0.0"
+  }
+}
